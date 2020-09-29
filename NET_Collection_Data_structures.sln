@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList_Student", "ArrayList_Student\ArrayList_Student.csproj", "{B6DE382A-2C34-4EAE-9B51-4D1D9AD41482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList_Student", "ArrayList_Student\ArrayList_Student.csproj", "{B6DE382A-2C34-4EAE-9B51-4D1D9AD41482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_Book", "Dictionary_Book\Dictionary_Book.csproj", "{9AAFE45E-0826-462F-B1FE-892DFEA674CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary_Book", "Dictionary_Book\Dictionary_Book.csproj", "{9AAFE45E-0826-462F-B1FE-892DFEA674CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList_List", "SortedList_List\SortedList_List.csproj", "{8FFE3BA1-2DB0-49A6-9DE7-810F359BAB13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedList_List", "SortedList_List\SortedList_List.csproj", "{8FFE3BA1-2DB0-49A6-9DE7-810F359BAB13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQ_ArrayList", "LinQ_ArrayList\LinQ_ArrayList.csproj", "{E846A2D2-B9A1-494E-BA14-19DF99FDA06A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinQ_ArrayList", "LinQ_ArrayList\LinQ_ArrayList.csproj", "{E846A2D2-B9A1-494E-BA14-19DF99FDA06A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thao_tac_voi_List", "Thao_tac_voi_List\Thao_tac_voi_List.csproj", "{BA879804-AC9C-410A-A60C-85C28823295E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E846A2D2-B9A1-494E-BA14-19DF99FDA06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E846A2D2-B9A1-494E-BA14-19DF99FDA06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E846A2D2-B9A1-494E-BA14-19DF99FDA06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA879804-AC9C-410A-A60C-85C28823295E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA879804-AC9C-410A-A60C-85C28823295E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA879804-AC9C-410A-A60C-85C28823295E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA879804-AC9C-410A-A60C-85C28823295E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
